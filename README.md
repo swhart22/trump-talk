@@ -1,5 +1,9 @@
 # trump-talk
 A scraper that grabs Trump's remarks from whitehouse.gov.
+
+## Requirements
+
+
 ## Instructions for use
 
 Clone this repo onto your machine (on command line, run): 
